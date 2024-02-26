@@ -1,4 +1,4 @@
-./AutomateProcess/flights2023.csv
-./Test/flights2023.csv
-Flights.db
-Flights.sqbpro
+*.csv
+*.log
+*.db
+*.sqlbpro
